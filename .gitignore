@@ -1,0 +1,13 @@
+# Environments
+venv/
+env/
+.env
+
+# API Keys and Secrets
+apikey.txt
+secrets.json
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
